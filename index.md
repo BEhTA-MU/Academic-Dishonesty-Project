@@ -1,5 +1,3 @@
-# Academic Dishonesty Project
-
 ```markdown
 ## Background
  -bullet list
